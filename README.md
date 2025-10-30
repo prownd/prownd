@@ -1,4 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Keep+going%2C+never+stop.)](https://git.io/typing-svg)
 ## Hi there 👋
+- 🔭 I’m currently working linux operating system and component feature development
 
 <!--
 **prownd/prownd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
