@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BE3F7&center=true&width=435&lines=Keep+going%2C+never+stop.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CB2FF&center=true&width=435&lines=Keep+going%2C+never+stop.)](https://git.io/typing-svg)
 ## Hi there 👋
 - 🔭 I’m currently working linux operating system and component feature development
 
